@@ -1,5 +1,5 @@
 /* 
-   Digital Chaos Magic Channeler v1.0
+   Digital Chaos Magic Channeler v1.0 (Mode64)
    by alcopaul
 */
 
